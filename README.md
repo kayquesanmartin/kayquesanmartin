@@ -1,6 +1,6 @@
-### Hello, I'm Kayque :grin:
-
-🇧🇷 Living on São Paulo, Brazil </br>
+### About me
+Hello, I'm <strong>Kayque</strong> :grin: , I have <strong>18 years old</strong></br>
+🇧🇷 Living on <strong>São Paulo, Brazil</strong> </br>
 I'm currently doing my last year in high school.
 
 ### About programming
