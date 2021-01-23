@@ -1,6 +1,6 @@
 ### Hello, I'm Kayque :grin:
 
-flag: Brazil Living on São Paulo, Brazil
+U+1F1F7 Living on São Paulo, Brazil
 I'm currently doing my last year in high school.
 
 ### About programming
