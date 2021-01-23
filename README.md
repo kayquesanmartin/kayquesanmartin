@@ -1,6 +1,6 @@
 ### Hello, I'm Kayque :grin:
 
-:br: Living on São Paulo, Brazil </br>
+:pt-br: Living on São Paulo, Brazil </br>
 I'm currently doing my last year in high school.
 
 ### About programming
