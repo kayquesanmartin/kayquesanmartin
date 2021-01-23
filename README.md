@@ -3,6 +3,6 @@ Hello, I'm <strong>Kayque</strong> :grin: , I have <strong>18 years old</strong>
 🇧🇷 Living on <strong>São Paulo, Brazil</strong> </br>
 
 
-<h1>My studies</h1>
+<h2>My studies</h2>
 I'm currently doing my last year in high school.</br>
 :mortar_board: In my free time, recently I started studies {front-end}, HTML5, CSS3 and JS.
