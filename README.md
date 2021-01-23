@@ -5,4 +5,4 @@ Hello, I'm <strong>Kayque</strong> :grin: , I have <strong>18 years old</strong>
 
 <h2>My studies</h2>
 I'm currently doing my last year in high school.</br>
-:mortar_board: Recently I started studies more about front-end.
+:mortar_board: Recently I started study more about front-end.
