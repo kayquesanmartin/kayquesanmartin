@@ -6,3 +6,6 @@ Hello, my name is <strong>Kayque</strong> :grin: and I'm <strong>18 years old</s
 <h2>My studies</h2>
 I'm currently doing my last year in high school.</br>
 :mortar_board: Recently I started study more about front-end.
+:ballot_box_with_check: HTML5
+:black_square_button: CSS3
+:black_square_button: JavaScript
