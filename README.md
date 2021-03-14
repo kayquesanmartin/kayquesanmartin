@@ -3,8 +3,7 @@ Hello, my name is <strong>Kayque</strong> :grin: and I'm <strong>18 years old</s
 Living in <strong>São Paulo, Brazil 🇧🇷</strong> </br>
 
 
-<h2>My studies</h2>
-:mortar_board: I'm learning C#</br>
+<h2>:mortar_board: I'm learning C#</h2>
 <!--
 :black_square_button: C#</br>
 :ballot_box_with_check:
