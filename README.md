@@ -4,7 +4,7 @@ Living in <strong>São Paulo, Brazil 🇧🇷</strong> </br>
 
 
 <h2>My studies</h2>
-:mortar_board: I'm learning C# and game programming</br>
+:mortar_board: I'm learning C#</br>
 <!--
 :black_square_button: C#</br>
 :ballot_box_with_check:
