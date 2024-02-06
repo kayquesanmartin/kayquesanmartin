@@ -4,7 +4,7 @@
 
 💻| Análise e Desenvolvimento de Sistemas.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayques&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayques&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayques&layout=compact&count_private=true&show_icons=true&theme=tokyonight)
 
 <div>
