@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Kayque!)](https://git.io/typing-svg)
 
-### Kayque Sanmartin!
+<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta.
+Me interesso mais pelo backend e tenho curiosidades sobre frontend, e minhas principais linguagens são C# e Python.
+Estudo diariamente sobre a área de tecnologia, sempre me mantendo atualizado, adoro me aventurar em ambientes desafiadores e que me proporcionem mais aprendizado e que possa aplicar mais conhecimentos!
 
 ##
 
