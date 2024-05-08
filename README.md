@@ -28,7 +28,7 @@
 </div>
 
 
-### 💻| Análise e Desenvolvimento de Sistemas.
+### 💻| Analysis and systems development.
 
 <h3>GitHub Stats</h3>
 
