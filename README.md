@@ -1,6 +1,6 @@
 <!--<img align="right" alt="" height="300px" src="./me.png"> ADICIONAR IMAGEM-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=410096&random=false&width=435&height=40&lines=H%i1%2C+I'm+Kayque!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=410096&random=false&width=435&height=40&lines=Hi%2C+I'm+Kayque!)](https://git.io/typing-svg)
 
 <p align="left">I'm currently a Systems Analysis and Development student at Faculdade Impacta. I'm more interested in backend and I have some curiosities about frontend, my main languages are Java and C#. I study the technology area daily, always keeping myself up to date, I love venturing into challenging environments that provide me with more learning and allow me to apply more knowledge!
 
