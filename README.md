@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=410096&color:FFF)](mailto:kayque.sanmartin65@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=410096&color:FFF)](mailto:contato.kayquesanmartin@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=410096&color:FFF)](https://www.linkedin.com/in/kayque-sanmartin/)
 
 <h3 align="left">My Stack</h3>
