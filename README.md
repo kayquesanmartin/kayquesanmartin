@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=410096&random=false&width=435&height=40&lines=Hi%2C+I'm+Kayque!)](https://git.io/typing-svg)
 
-<p align="left">I'm currently a Systems Analysis and Development student at Faculdade Impacta. I'm more interested in backend and I have some curiosities about frontend, my main languages are Java. I study the technology area daily, always keeping myself up to date, I love venturing into challenging environments that provide me with more learning and allow me to apply more knowledge!
+<p align="left">I'm currently a Systems Analysis and Development student at Faculdade Impacta. I'm more interested in backend, my main languages are Kotlin and Java. I study the technology area daily, always keeping myself up to date, I love venturing into challenging environments that provide me with more learning and allow me to apply more knowledge!
 
 <h3 align="left">Connect with me!</h3>
 
