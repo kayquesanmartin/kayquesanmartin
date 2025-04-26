@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=410096&random=false&width=435&height=40&lines=Hi%2C+I'm+Kayque!)](https://git.io/typing-svg)
 
-<p align="left">I'm currently a Systems Analysis and Development student at Faculdade Impacta. I'm more interested in backend, my main languages are Kotlin and Java. I study the technology area daily, always keeping myself up to date, I love venturing into challenging environments that provide me with more learning and allow me to apply more knowledge!
+<p align="left">I'm currently a Systems Analysis and Development student at Faculdade Impacta. I'm more interested in backend, my main languages are C#. I study the technology area daily, always keeping myself up to date, I love venturing into challenging environments that provide me with more learning and allow me to apply more knowledge!
 
 <h3 align="left">Connect with me!</h3>
 
@@ -12,15 +12,11 @@
 <h3 align="left">My Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="25" alt="kotlin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25" alt="c# logo"/>
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="25" alt="dot-net core logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25" alt="java logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="25" alt="spring logo"/>
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="25" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="25" alt="sqlserver logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
   <img width="8" />
