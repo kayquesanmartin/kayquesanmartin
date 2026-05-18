@@ -26,7 +26,7 @@ var kayque = new Developer
 ```
 
 - 💼 No dia a dia construindo aplicações com **C# / .NET** e **SQL Server**
-- 🛠️ Background poliglota — já entreguei em Java/Spring, Python, Go e TypeScript
+- 🛠️ Background — já entreguei em Java/Spring, Python, Go e TypeScript
 - 🚀 Projetos pessoais fullstack com **Next.js + TypeScript**
 - 📚 Sempre estudando arquitetura, boas práticas e o que faz o software durar
 
