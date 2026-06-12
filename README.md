@@ -81,8 +81,6 @@ var kayque = new Developer
 
 <div align="center">
 
-⭐ *"Ship feio, refatora depois — mas entrega."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
