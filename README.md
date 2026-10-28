@@ -15,48 +15,18 @@ Sou o **Kayque**, desenvolvedor fullstack. No dia a dia construo APIs e sistemas
 
 Me interesso por arquitetura de software, dados bem modelados e software que dura.
 
-## >_ Sobre mim
-
-* **TODO_FORMACAO** — TODO_INSTITUICAO
-* **TODO_CERTIFICACOES**
-* Hoje: **TODO_CARGO** em **TODO_EMPRESA**
-* Estudando: **Go → Rust** e engenharia de sistemas com IA
-
-## >_ Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kayquesanmartin/estudo-diario"><b>🎲 estudo-diario</b></a><br/>
-      App leve em <b>Go</b> que sorteia 1 tema técnico por dia e grava a nota no Obsidian.<br/>
-      <sub>Go · HTML embutido · Obsidian</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kayquesanmartin/TODO_PROJETO_2"><b>🧠 TODO_PROJETO_2</b></a><br/>
-      TODO_DESCRICAO_2<br/>
-      <sub>TODO_STACK_2</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kayquesanmartin/TODO_PROJETO_3"><b>🧭 TODO_PROJETO_3</b></a><br/>
-      TODO_DESCRICAO_3<br/>
-      <sub>TODO_STACK_3</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kayquesanmartin/desenvolvimento-web"><b>🌐 desenvolvimento-web</b></a><br/>
-      Exercícios e projetos da disciplina de desenvolvimento web.<br/>
-      <sub>HTML · CSS · JavaScript</sub>
-    </td>
-  </tr>
-</table>
+* 💼 APIs, integrações e backoffice com **C# / .NET**
+* 🗄️ Modelagem de dados e SQL com **PostgreSQL** e **SQL Server**
+* 🤖 Ferramentas e fluxos de desenvolvimento com agentes de IA
+* 📚 Estudando **Go → Rust** e engenharia de sistemas
 
 ## >_ Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/TODO_BANCO/TODO_BANCO-original.svg" height="40" alt="TODO_BANCO" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />&nbsp;
